@@ -45,10 +45,11 @@ Escriban aquí su respuesta. Proyecto: Propietalia: Identidad única dgital de p
 > Integrantes con su usuario de GitHub, rol asumido por cada persona, responsable de las entregas y canal de coordinación interna. Extensión: breve.
 
 Escriban aquí su respuesta.
-1. Ismarit Gonzalez: [indicar gthub] // analista del contexto legal del proceso. 
+1. Ismarit Gonzalez: [indicar github] // analista del contexto legal del proceso. 
 2. Katia Muñoz: https://github.com/KatiaMunoz // analista comercial del proceso (para verificar monetización) responsable de las entregas.
-3. Ramsés Avilés: 
-4. Carlos Navarrete:
+3. Ramsés Avilés:  [indicar github] // [indicar rol]
+4. Carlos Navarrete:  [indicar github] // [indicar rol]
+ //  Canal de coordnacnión interno: WhatsApp //
 
 ### Problema y evidencia
 
