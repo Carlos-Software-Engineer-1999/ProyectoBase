@@ -29,7 +29,7 @@ Escriban aquí su respuesta.
 
 Escriban aquí su respuesta.
 
-Todos escuchamos el problema propuesto por Ismarit, y no solo pareció con un buen impacto por número de personas que tenen que realizr trámites, sino que la idea ya habá sido parte de un ideatón y ya hbía sido trabajado.
+Todos escuchamos el problema propuesto por Ismarit, y no solo pareció con un buen impacto por número de personas que tenen que realizr trámites, sino que la idea ya había sido parte de un ideatón y ya había sido trabajado y mejorada
 
 ---
 
@@ -45,10 +45,10 @@ Escriban aquí su respuesta. Proyecto: Propietalia: Identidad única dgital de p
 > Integrantes con su usuario de GitHub, rol asumido por cada persona, responsable de las entregas y canal de coordinación interna. Extensión: breve.
 
 Escriban aquí su respuesta.
-Ismarit Gonzalez: [indicar gthub] // analista del contexto legal del proceso 
-Katia Muñoz: https://github.com/KatiaMunoz // analista comercial del proceso (para verificar monetización) responsable de las entregas
-Ramsés Avilés: 
-Carlos Navarrete:
+1. Ismarit Gonzalez: [indicar gthub] // analista del contexto legal del proceso. 
+2. Katia Muñoz: https://github.com/KatiaMunoz // analista comercial del proceso (para verificar monetización) responsable de las entregas.
+3. Ramsés Avilés: 
+4. Carlos Navarrete:
 
 ### Problema y evidencia
 
