@@ -7,7 +7,8 @@
 > El problema ganador en una frase, sin mencionar blockchain, y quién lo propuso.
 
 Escriban aquí su respuesta. 
-Hacer un trámite de propiedad en México es costoso, burcocrático, y a veces ncluso se presta a corrupción por el número de partes involucradas. Propuesto por Ismarit González.
+
+Hacer un trámite de propiedad en México (como una herencia, sucesión o actualización de escrituras). Trámites que tardan de 3 a 6 meses entre vuelta y vuelta, corrupción. Implica muchas partes involucrdas, Ees costoso, burcocrático, y a veces se presta a corrupción. Propuesto por Ismarit González.
 
 ### Por qué elegimos este
 
@@ -38,17 +39,21 @@ Todos escuchamos el problema propuesto por Ismarit, y no solo pareció con un bu
 
 > Nombre del proyecto y una frase que describa el problema. Extensión: breve.
 
-Escriban aquí su respuesta. Proyecto: Identidad única dgital de propiedades 
-
+Escriban aquí su respuesta. Proyecto: Propietalia: Identidad única dgital de propiedades, en donde cada propiedad tiene su "pasaporte digital" inmutable.
 ### Equipo y roles
 
 > Integrantes con su usuario de GitHub, rol asumido por cada persona, responsable de las entregas y canal de coordinación interna. Extensión: breve.
 
 Escriban aquí su respuesta.
+Ismarit Gonzalez: [indicar gthub] // analista del contexto legal del proceso 
+Katia Muñoz: https://github.com/KatiaMunoz // analista comercial del proceso (para verificar monetización) responsable de las entregas
+Ramsés Avilés: 
+Carlos Navarrete:
 
 ### Problema y evidencia
 
 > Enunciado del problema en una frase, sin mencionar blockchain. Contexto, frecuencia y alcance. Evidencia mínima de que el problema existe: observación directa, experiencia propia, conversaciones o fuentes consultadas, con enlace o cita cuando aplique. Extensión: 150–300 palabras.
+> 
 
 Escriban aquí su respuesta.
 
