@@ -1,28 +1,28 @@
 # Propuesta individual
 
-**Nombre:** Escribe aquí tu nombres
+**Nombre:** Katia Munoz
 
-**Usuario de GitHub:** Escribe aquí tu usuario
-
+**Usuario de GitHub:** KatiaMunoz
 ---
 
 ## El problema
 
 > El problema en una sola frase, sin mencionar blockchain.
 
-Escribe aquí tu respuesta.
+No hay fondos para financiar un documental sobre la cultura culinaria de Querétaro, n forma de monetizarlo.
 
 ## ¿Quién lo sufre?
 
 > Quién tiene el problema y en qué situación lo vive.
 
-Escribe aquí tu respuesta.
+Lo sufre el productor del proyecto cultural, que está buscando hacer el modelo de negocio del proyecto antes de filmarlo.
 
 ## ¿Cómo se resuelve hoy y qué cuesta?
 
 > Cómo lo resuelven hoy las personas afectadas y qué les cuesta en dinero, tiempo o esfuerzo.
 
-Escribe aquí tu respuesta.
+Lo podrían resolver primero flmando el proyecto, sin tener una idea 
+
 
 ## ¿Por qué creo que blockchain podría aportar?
 
