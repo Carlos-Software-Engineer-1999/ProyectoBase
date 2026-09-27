@@ -6,25 +6,29 @@
 
 > El problema ganador en una frase, sin mencionar blockchain, y quién lo propuso.
 
-Escriban aquí su respuesta.
+Escriban aquí su respuesta. 
+Hacer un trámite de propiedad en México es costoso, burcocrático, y a veces ncluso se presta a corrupción por el número de partes involucradas. Propuesto por Ismarit González.
 
 ### Por qué elegimos este
 
 > Qué inclinó al equipo por este problema frente a los demás, según los criterios de la Sesión 1.
 
-Escriban aquí su respuesta.
+Escriban aquí su respuesta. Se eligicó este problema por ser el que tiene una repercusión para el mayor número de personas que impacta, así como porque toc un tema vital en la vida de muchas personas (el poder preservar su patrimonio).
 
 ### Propuestas descartadas
 
 > Cada propuesta considerada, quién la propuso y el motivo del descarte.
 
 Escriban aquí su respuesta.
+-La propuesta de Katia se descartó porque el número de personas potencalmente impactadas no es tan considerable.
 
 ### Cómo tomamos la decisión
 
 > Cómo llegó el equipo al acuerdo: votación, consenso tras debate u otro.
 
 Escriban aquí su respuesta.
+
+Todos escuchamos el problema propuesto por Ismarit, y no solo pareció con un buen impacto por número de personas que tenen que realizr trámites, sino que la idea ya habá sido parte de un ideatón y ya hbía sido trabajado.
 
 ---
 
@@ -34,7 +38,7 @@ Escriban aquí su respuesta.
 
 > Nombre del proyecto y una frase que describa el problema. Extensión: breve.
 
-Escriban aquí su respuesta.
+Escriban aquí su respuesta. Proyecto: Identidad única dgital de propiedades 
 
 ### Equipo y roles
 
